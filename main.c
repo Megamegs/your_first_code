@@ -3,7 +3,7 @@
 int main(){
     int counter;
     for(counter = 0; counter < 33; counter++){
-        printf("Hello World\n");
+        printf("Hello Holberton\n");
     }
     return 0;
 }
